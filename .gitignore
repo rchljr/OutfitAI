@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.nox/
+.eggs/
+*.egg-info/
+*.egg
+
+# Flask
+instance/
+.webassets-cache
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# File sensitif
+*.env
+*.db
+*.sqlite3
+
+# Folder Uploads (opsional, tapi disarankan)
+# Abaikan isi folder uploads, tapi simpan foldernya
+static/uploads/*
+!static/uploads/.gitkeep
