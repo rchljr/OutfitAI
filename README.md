@@ -4,7 +4,7 @@
 
 OutfitAI is a web-based application that leverages a deep learning model to classify fashion styles from user-uploaded images. The system categorizes clothing outfits into three distinct styles: **Casual**, **Formal**, and **Semi-Formal**, providing users with instant feedback on their attire.
 
-This project demonstrates a complete end-to-end machine learning workflow, from data preprocessing and model training to deploying a functional web service with Flask.
+This project demonstrates a complete end-to-end **deep learning** workflow, from data preprocessing and model training to deploying a functional web service with Flask.
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ This project demonstrates a complete end-to-end machine learning workflow, from 
 ## 🛠️ Tech Stack
 
 -   **Backend**: Python, Flask
--   **Machine Learning**: TensorFlow, Keras, Scikit-learn, NumPy
+-   **Deep Learning & Data Science**: TensorFlow, Keras, Scikit-learn, NumPy
 -   **Frontend**: HTML, Tailwind CSS
 -   **Image Processing**: Pillow
 -   **Version Control**: Git & Git LFS (for large model file handling)
